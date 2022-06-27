@@ -7,4 +7,4 @@ Cost-Performance Trade-offs of Machine Translated and Manual Data </h3>
 
 <h5 align = "center"> <i>To appear in NAACL-2022</i> </h5>
 
-The code is under internal review at the moment, but should be released publically soon. We apologise for the inconvenience. If you have any questions please contact [Kabir](mailto:kabirahuja2431@gmail.com).
+The repo has been moved [here](https://github.com/microsoft/PerformanceFunctionAnalysis). We apologise for the inconvenience. If you have any questions please contact [Kabir](mailto:kabirahuja2431@gmail.com).
